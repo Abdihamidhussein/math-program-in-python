@@ -1,5 +1,5 @@
 one basic python file
-How it Works
+that operats.
  .first the user will se a list of math operatators eg additon,sub,mult.
   .Then the program will ask the user's requirement wheather he want addition sub and more.
   ' the user will select the operator he choise.
